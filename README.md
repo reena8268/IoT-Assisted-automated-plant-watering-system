@@ -63,4 +63,4 @@ The **Videos** folder contains the project demonstration.
 - AI-based irrigation prediction
 
 ## 👩‍💻 Author
-**Reena Prabakaran**
+**Reena KP**
